@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @melolw
+- 🌱 I’m currently learning Computer Science
